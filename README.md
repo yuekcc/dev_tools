@@ -16,6 +16,14 @@ vscode 二进制分发版，主要是使用了社区驱动的构建配置文件�
 
 协议：SIL Open Font License
 
+## cascadia code
+
+微软设计的全新等宽字体，支持连字。
+
+主页：https://github.com/microsoft/cascadia-code/releases
+
+协议：SIL Open Font License
+
 ## gitea
 
 golang 开发的轻便 git 托管方案，支持 lfs、issues。
