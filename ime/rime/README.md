@@ -9,3 +9,11 @@
 主页3: 至善专版 https://github.com/caiwenjigit/Wubi98
 
 主页4: 小浪 98 五笔 https://github.com/sfgghtu/xl
+
+## RIME 配置选项说明
+
+`schema.yaml` 说明：
+
+https://github.com/LEOYoon-Tsaw/Rime_collections/blob/master/Rime_description.md
+
+
